@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethma Vithanage</h1>
-<h3 align="center">A passionate frontend developer from SriLanka.</h3>
+<h3 align="center">A passionate Software developer from SriLanka.</h3>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmav&label=Profile%20views&color=0e75b6&style=flat" alt="nethmav" /> </p>
