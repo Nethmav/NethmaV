@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nethma Vithanage</h1>
+<h1 align="center">Hi there 👋, I'm Nethma Vithanage</h1>
 <h3 align="center">A passionate Software developer from SriLanka.</h3>
 <hr>
 
