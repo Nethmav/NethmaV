@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nethmav" target="blank"><img src="https://img.shields.io/twitter/follow/nethmav?logo=twitter&style=for-the-badge" alt="nethmav" /></a> </p>
 
+<hr>
 - 🔭 I’m currently studying on **NSBM Green University**
 
 - 🌱 I’m currently learning Bsc(honours).Software Engineering..
