@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently studying on **NSBM Green University**
 
-- 🌱 I’m currently learning **Java,C,python,HTML,CSS**
+- 🌱 I’m currently learning Bsc(honours).Software Engineering..
 
-- 👨‍💻 All of my projects are available at [in Github](in Github)
+- 👨‍💻 All of my projects are available at GitHub..
 
 - 📫 How to reach me **nethmavithaage1@gmail.com**
 
