@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Bsc(Hons).Software Engineering Degree at NSBM Green University.**
 
-- 👨‍💻 All of my projects are available at [in Github](in Github)
+- 👨‍💻 All of my projects are available at Github.
 
 - 📫 How to reach me **nethmavithaage1@gmail.com**
 
