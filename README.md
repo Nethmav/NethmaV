@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at Github.
 
-- 📫 How to reach me **nethmavithaage11@gmail.com**
+- 📫 How to reach me **nethmavithanage11@gmail.com**
 <hr>
 
 <h3 align="left">Connect with me:</h3>
